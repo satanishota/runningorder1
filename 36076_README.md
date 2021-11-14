@@ -24,10 +24,12 @@
 ## 設計書
  UI Flows　ER図　ワイヤーフレーム
 https://docs.google.com/presentation/d/1y0ENAhfDPk_HECZZPjeacuCdOeHIznk8tuuXnxf_aec/edit
+
 テーブル定義書
 https://docs.google.com/spreadsheets/d/1a7M1Nb-VfBsSTrag1yp_kJlPuvlMJKIa/edit?usp=sharing&ouid=103424107954255219607&rtpof=true&sd=true
+
 アプリケーション詳細設計書
-https://docs.google.com/spreadsheets/d/1Wy8UOE8Qc1sAoZfH7dCbZGijPKm2nUPr/edit#gid=549108681
+https://docs.google.com/spreadsheets/d/1Wy8UOE8Qc1sAoZfH7dCbZGijPKm2nUPr/edit?usp=sharing&ouid=103424107954255219607&rtpof=true&sd=true
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1LuyofLNSLOgOmXQrEiqXthOf0XMD41JWvJDD39vMxYM/edit#gid=0
