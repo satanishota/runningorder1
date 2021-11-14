@@ -23,7 +23,7 @@
 
 ## 設計書
  UI Flows　ER図　ワイヤーフレーム
-https://docs.google.com/presentation/d/1y0ENAhfDPk_HECZZPjeacuCdOeHIznk8tuuXnxf_aec/edit
+https://docs.google.com/presentation/d/1y0ENAhfDPk_HECZZPjeacuCdOeHIznk8tuuXnxf_aec/edit?usp=sharing
 
 テーブル定義書
 https://docs.google.com/spreadsheets/d/1a7M1Nb-VfBsSTrag1yp_kJlPuvlMJKIa/edit?usp=sharing&ouid=103424107954255219607&rtpof=true&sd=true
